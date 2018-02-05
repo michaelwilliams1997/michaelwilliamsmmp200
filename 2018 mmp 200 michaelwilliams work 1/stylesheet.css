@@ -1,0 +1,75 @@
+.bannerbackground{
+	height:150px;
+	width:100%;
+	background-image:url();
+	background-repeat:no-repeat;
+	background-size:coer;
+	background-color: #blue;
+	padding-top:75px;
+	font-size:75px;
+	text-align: center;
+	margin-bottom:24px;
+	color:#red;
+
+}
+
+body{
+	margin: 50px 75px 50px 75px;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#blue;
+}
+.indexbg{
+	background-color: red;
+}
+
+.Visualbg{
+	background-color: #blue;
+}
+.Animationbg{
+	background-color: #green;
+}
+.Vatvisualbg{
+	background-color: #orange;
+}
+h1{
+	font-family:"Courier New", Courier, monospace;
+	font-size: 48px;
+	color: #000000;
+	background-color: #cbd2e7;
+	padding: 0 5px 5px 5px;
+	width: 500px;
+}
+.rt-responsive{ 
+max-width:100%; 
+height: auto;
+float: right;
+margin:15px 0 15px 15px;
+}
+p{
+	text-align: justify;
+	line-height: 24px;
+}
+a{
+	color:#ffffff;
+}
+.left-static{
+	float: left;
+	margin: 0 40px 40px 0;
+}
+.right-static{
+	float: right;
+	margin: 0 0 40px 40px;
+}
+/* RESPONSIVE classes for img */
+.left-responsive{
+    max-width:100%;
+    height: auto;
+	float:left;
+	margin: 0 40px 40px 0;
+}
+.right-responsive{
+    max-width:100%;
+    height: auto;
+	float:right;
+	margin: 0 40px 40px 0;
+	}   
